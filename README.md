@@ -20,18 +20,20 @@ A simple but effective implementation of handwritten digit classification using 
 
 ## 📸 Sample Output
 Classification Report:
-precision recall f1-score support
-       0       0.98      0.99      0.98       980
-       1       0.97      0.99      0.98      1135
-       2       0.97      0.97      0.97      1032
+              precision    recall  f1-score   support
+
+           0       0.98      0.99      0.98       980
+           1       0.97      0.99      0.98      1135
+           2       0.97      0.97      0.97      1032
+           ...
+
 Confusion Matrix:
-[[ 976 0 1 0 0 0 2 0 1 0]
-[ 0 1124 2 2 0 0 3 1 3 0]
-[ 4 2 1003 2 0 0 1 9 11 0]
+[[976   0   1 ...]  
+ [  0 1124  2 ...]  
+ ...]
+
 Accuracy Score: 0.9729
 
-
----
 
 ## 📦 Installation & Launch Instructions
 
