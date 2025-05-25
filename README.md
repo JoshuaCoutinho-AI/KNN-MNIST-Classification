@@ -41,6 +41,6 @@ Accuracy Score: 0.9729
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/KNN-MNIST-Classification.git
+git clone https://github.com/JoshuaCoutinho-AI/KNN-MNIST-Classification.git
 cd KNN-MNIST-Classification
 
