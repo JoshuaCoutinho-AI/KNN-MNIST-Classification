@@ -14,6 +14,9 @@ A simple but effective implementation of handwritten digit classification using 
 - Visualizes predicted vs true labels for a few sample images
 
 ---
+## 🖼️ Sample Prediction Plot
+
+![Prediction Sample](knn_output.png)
 
 ## 📸 Sample Output
 Classification Report:
